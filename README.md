@@ -1,0 +1,2 @@
+# js-dotinstall
+ドットインストールのjsのやつ
